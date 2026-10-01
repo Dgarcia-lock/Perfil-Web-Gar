@@ -15,7 +15,7 @@ A public web page with six sections:
 |---|---|
 | Home | Daniel Garcia, I am a student of the Professional Technician program in Web Programming. https://github.com/Dgarcia-lock/Perfil-Web-Gar |
 | About | I am a web programming student; I enjoy programming and databases, and I learn more every day. |
-| Skills | Your technical and professional skills |
+| Skills | HTML, CSS, CMD, DataBase, Willingness to learn, Teamwork |
 | Resume | Your education and your experience |
 | Projects | The projects you have built |
 | Contact | dgarcia26022008@gmail.com
