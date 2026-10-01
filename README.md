@@ -17,7 +17,7 @@ A public web page with six sections:
 | About | I am a web programming student; I enjoy programming and databases, and I learn more every day. |
 | Skills | HTML, CSS, CMD, DataBase, Willingness to learn, Teamwork |
 | Resume | Student of the Professional Technician program in Web Programming. |
-| Projects | The projects you have built |
+| Projects | I am creating and testing a web application designed to efficiently manage and track product inventory. |
 | Contact | dgarcia26022008@gmail.com
  |
 
