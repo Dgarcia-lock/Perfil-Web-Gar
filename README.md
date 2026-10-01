@@ -18,7 +18,8 @@ A public web page with six sections:
 | Skills | Your technical and professional skills |
 | Resume | Your education and your experience |
 | Projects | The projects you have built |
-| Contact | How people can reach you |
+| Contact | dgarcia26022008@gmail.com
+ |
 
 ---
 
