@@ -13,7 +13,7 @@ A public web page with six sections:
 
 | Section | What goes there |
 |---|---|
-| Home | Daniel Garcia, I am a student of the Professional Technician program in Web Programming. |
+| Home | Daniel Garcia, I am a student of the Professional Technician program in Web Programming. https://github.com/Dgarcia-lock/Perfil-Web-Gar/blob/main/README.md |
 | About | Two or three sentences about you |
 | Skills | Your technical and professional skills |
 | Resume | Your education and your experience |
